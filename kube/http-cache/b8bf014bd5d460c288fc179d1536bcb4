@@ -1,0 +1,6 @@
+HTTP/2.0 200 OK
+Content-Length: 131
+Content-Type: application/json
+Date: Mon, 22 Jan 2018 00:18:25 GMT
+
+{"kind":"APIVersions","versions":["v1"],"serverAddressByClientCIDRs":[{"clientCIDR":"0.0.0.0/0","serverAddress":"34.201.25.201"}]}

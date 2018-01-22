@@ -1,0 +1,16 @@
+HTTP/2.0 200 OK
+Content-Length: 261
+Content-Type: application/json
+Date: Sun, 21 Jan 2018 06:08:30 GMT
+
+{
+  "major": "1",
+  "minor": "7",
+  "gitVersion": "v1.7.11",
+  "gitCommit": "b13f2fd682d56eab7a6a2b5a1cab1a3d2c8bdd55",
+  "gitTreeState": "clean",
+  "buildDate": "2017-11-25T17:51:39Z",
+  "goVersion": "go1.8.3",
+  "compiler": "gc",
+  "platform": "linux/amd64"
+}
